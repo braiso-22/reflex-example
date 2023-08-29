@@ -1,6 +1,6 @@
 # Reflex Portfolio Example
 
-This a exaple of Porfolio web using [Reflex](https://reflex.dev/)
+This an example of Porfolio web using [Reflex](https://reflex.dev/)
 
 ## How to run
 
